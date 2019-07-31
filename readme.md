@@ -6,12 +6,12 @@ https://medium.com/coinmonks/a-simple-erc-721-example-c3f72b5aa19
 
 ## To get started ##
 *install libraries*
-npm install
+ npm install
 
 *setup truffle-config.js by following tutorials*
 
 *compile contracts with truffle*
-truffle compile
+ truffle compile
 
 *deploy contracts with truffle*
-truffle deploy --network rinkeby
+ truffle deploy --network rinkeby
